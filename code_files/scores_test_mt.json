@@ -1,0 +1,51 @@
+{
+    "250": {
+        "supervised": 0.25374236207164924,
+        "student": 0.28054619538886877,
+        "teacher": 0.28345596855153105,
+        "stat_impr_st": 98,
+        "stat_impr_te": 99
+    },
+    "500": {
+        "supervised": 0.2883729841953051,
+        "student": 0.29909402295207177,
+        "teacher": 0.3011482964085686,
+        "stat_impr_st": 79,
+        "stat_impr_te": 92
+    },
+    "750": {
+        "supervised": 0.3136512725272238,
+        "student": 0.31960919324374326,
+        "teacher": 0.31265870227711556,
+        "stat_impr_st": 75,
+        "stat_impr_te": 46
+    },
+    "1000": {
+        "supervised": 0.32204379465700816,
+        "student": 0.34294089336620415,
+        "teacher": 0.3456469100069271,
+        "stat_impr_st": 92,
+        "stat_impr_te": 96
+    },
+    "1250": {
+        "supervised": 0.33535159488242405,
+        "student": 0.33903866673395294,
+        "teacher": 0.3435257877380865,
+        "stat_impr_st": 61,
+        "stat_impr_te": 78
+    },
+    "1500": {
+        "supervised": 0.3343286622625563,
+        "student": 0.35057468379453505,
+        "teacher": 0.35143383716584514,
+        "stat_impr_st": 94,
+        "stat_impr_te": 94
+    },
+    "1750": {
+        "supervised": 0.328103515750323,
+        "student": 0.35456017987068106,
+        "teacher": 0.36221773474713265,
+        "stat_impr_st": 98,
+        "stat_impr_te": 100
+    }
+}

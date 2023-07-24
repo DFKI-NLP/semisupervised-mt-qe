@@ -1,0 +1,8 @@
+metrics_meanteacher_rampup_wts_4_epochs and rampup used till 4 epochs to reach 2.5
+Consistency_loss 12 : 0.06394706341610193
+Classification_loss 12 : 0.1955166560932897
+Overall_loss 12 : 0.3553843149495272
+'mcc_score/Teacher 12 : 0.2975681512314785
+ValidationLoss/Teacher 12 : tensor(1.7586, device='cuda:0')
+'mcc_score/Student 12 : 0.2969834998964942
+ValidationLoss/Student 12 : tensor(1.7866, device='cuda:0')

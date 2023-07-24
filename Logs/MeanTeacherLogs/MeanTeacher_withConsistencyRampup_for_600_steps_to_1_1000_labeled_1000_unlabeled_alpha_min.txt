@@ -1,0 +1,15 @@
+MeanTeacher_withConsistencyRampup_for_600_steps_to_1_1000_labeled_1000_unlabeled_alpha_min
+Consistency_loss 1 : 0.41221904462575915
+Classification_loss 1 : 0.6217504849433899
+Overall_loss 1 : 0.6425165094062686
+'mcc_score/Teacher 1 : 0.2497578093538212
+ValidationLoss/Teacher 1 : tensor(0.6231, device='cuda:0')
+'mcc_score/Student 1 : 0.26285807458677524
+ValidationLoss/Student 1 : tensor(0.5888, device='cuda:0')
+Consistency_loss 2 : 0.18515905457735063
+Classification_loss 2 : 0.5778942643404007
+Overall_loss 2 : 0.6666050662994385
+'mcc_score/Teacher 2 : 0.27390460591384436
+ValidationLoss/Teacher 2 : tensor(0.5883, device='cuda:0')
+'mcc_score/Student 2 : 0.279773841430625
+ValidationLoss/Student 2 : tensor(0.5723, device='cuda:0')

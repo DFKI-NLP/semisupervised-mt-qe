@@ -1,0 +1,15 @@
+MeanTeacher_withConsistencyRampup_for_1300_steps_to_1_high_student_noise
+Consistency_loss 1 : 0.3432732894897461
+Classification_loss 1 : 0.6290785470962524
+Overall_loss 1 : 0.6538381999123841
+'mcc_score/Teacher 1 : 0.0
+ValidationLoss/Teacher 1 : tensor(0.6934, device='cuda:0')
+'mcc_score/Student 1 : 0.0
+ValidationLoss/Student 1 : tensor(0.6945, device='cuda:0')
+Consistency_loss 2 : 0.22449085640907288
+Classification_loss 2 : 0.5792214517593384
+Overall_loss 2 : 0.721085343003273
+'mcc_score/Teacher 2 : 0.0
+ValidationLoss/Teacher 2 : tensor(0.6978, device='cuda:0')
+'mcc_score/Student 2 : 0.0
+ValidationLoss/Student 2 : tensor(0.6997, device='cuda:0')

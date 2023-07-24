@@ -1,0 +1,85 @@
+MeanTeacher_withConsistencyRampup_for_1200_steps_to_1_2000_labeled_2000_unlabeled_newTest_data
+Consistency_loss 1 : 0.32636460933089256
+Classification_loss 1 : 0.6141839138865471
+Overall_loss 1 : 0.6290261022560298
+'mcc_score/Teacher 1 : 0.2765834311448292
+ValidationLoss/Teacher 1 : tensor(0.5899, device='cuda:0')
+'mcc_score/Student 1 : 0.29224895392480327
+ValidationLoss/Student 1 : tensor(0.5750, device='cuda:0')
+Consistency_loss 2 : 0.16469530841708183
+Classification_loss 2 : 0.556440701007843
+Overall_loss 2 : 0.6343425007462502
+'mcc_score/Teacher 2 : 0.3051264769815043
+ValidationLoss/Teacher 2 : tensor(0.5559, device='cuda:0')
+'mcc_score/Student 2 : 0.3139358497624108
+ValidationLoss/Student 2 : tensor(0.5613, device='cuda:0')
+Consistency_loss 3 : 0.11886732782423497
+Classification_loss 3 : 0.5024585264921189
+Overall_loss 3 : 0.6190187283605337
+'mcc_score/Teacher 3 : 0.3233914461713428
+ValidationLoss/Teacher 3 : tensor(0.5480, device='cuda:0')
+'mcc_score/Student 3 : 0.3204073714809145
+ValidationLoss/Student 3 : tensor(0.5743, device='cuda:0')
+Consistency_loss 4 : 0.1073654416501522
+Classification_loss 4 : 0.4487178135514259
+Overall_loss 4 : 0.5560832558572293
+'mcc_score/Teacher 4 : 0.33644599659188285
+ValidationLoss/Teacher 4 : tensor(0.5562, device='cuda:0')
+'mcc_score/Student 4 : 0.3321837566243996
+ValidationLoss/Student 4 : tensor(0.5513, device='cuda:0')
+Consistency_loss 5 : 0.09854718759655952
+Classification_loss 5 : 0.3934458364546299
+Overall_loss 5 : 0.49199302393198013
+'mcc_score/Teacher 5 : 0.33531127593387366
+ValidationLoss/Teacher 5 : tensor(0.5773, device='cuda:0')
+'mcc_score/Student 5 : 0.32742712524155604
+ValidationLoss/Student 5 : tensor(0.6012, device='cuda:0')
+Consistency_loss 6 : 0.09939699555188418
+Classification_loss 6 : 0.33797017051279543
+Overall_loss 6 : 0.4373671658337116
+'mcc_score/Teacher 6 : 0.3231776154782296
+ValidationLoss/Teacher 6 : tensor(0.6253, device='cuda:0')
+'mcc_score/Student 6 : 0.32783825860431126
+ValidationLoss/Student 6 : tensor(0.6573, device='cuda:0')
+Consistency_loss 7 : 0.09683444399386644
+Classification_loss 7 : 0.30053001521527767
+Overall_loss 7 : 0.39736445964872835
+'mcc_score/Teacher 7 : 0.31560723607216823
+ValidationLoss/Teacher 7 : tensor(0.6858, device='cuda:0')
+'mcc_score/Student 7 : 0.30479958302526533
+ValidationLoss/Student 7 : tensor(0.7258, device='cuda:0')
+Consistency_loss 8 : 0.09556415720283985
+Classification_loss 8 : 0.25889100654423236
+Overall_loss 8 : 0.35445516389608384
+'mcc_score/Teacher 8 : 0.3118460340078513
+ValidationLoss/Teacher 8 : tensor(0.7682, device='cuda:0')
+'mcc_score/Student 8 : 0.30581500267552225
+ValidationLoss/Student 8 : tensor(0.7868, device='cuda:0')
+Consistency_loss 9 : 0.08994571193680168
+Classification_loss 9 : 0.2181803211607039
+Overall_loss 9 : 0.3081260331124067
+'mcc_score/Teacher 9 : 0.3058927342905998
+ValidationLoss/Teacher 9 : tensor(0.9105, device='cuda:0')
+'mcc_score/Student 9 : 0.30371689339721497
+ValidationLoss/Student 9 : tensor(0.9624, device='cuda:0')
+Consistency_loss 10 : 0.08706637920811772
+Classification_loss 10 : 0.2028446097476408
+Overall_loss 10 : 0.2899109882041812
+'mcc_score/Teacher 10 : 0.29956479015891335
+ValidationLoss/Teacher 10 : tensor(1.0606, device='cuda:0')
+'mcc_score/Student 10 : 0.30405205978850625
+ValidationLoss/Student 10 : tensor(1.0493, device='cuda:0')
+Consistency_loss 11 : 0.08765117722377182
+Classification_loss 11 : 0.18566440350562335
+Overall_loss 11 : 0.27331558147072793
+'mcc_score/Teacher 11 : 0.2960707964269061
+ValidationLoss/Teacher 11 : tensor(1.1740, device='cuda:0')
+'mcc_score/Student 11 : 0.2957214191108859
+ValidationLoss/Student 11 : tensor(1.1659, device='cuda:0')
+Consistency_loss 12 : 0.08155080379545689
+Classification_loss 12 : 0.16530743907764553
+Overall_loss 12 : 0.24685824274271725
+'mcc_score/Teacher 12 : 0.289134119835048
+ValidationLoss/Teacher 12 : tensor(1.3182, device='cuda:0')
+'mcc_score/Student 12 : 0.28348401788678224
+ValidationLoss/Student 12 : tensor(1.3974, device='cuda:0')

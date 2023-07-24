@@ -1,0 +1,85 @@
+pseudolabeling_1250_label_750_unlabel_samples_confidence_0.8_final
+Consistency_loss 1 : 0.4164518896252551
+Classification_loss 1 : 0.09676971659064293
+Overall_loss 1 : 0.12396297675180942
+'mcc_score/Teacher 1 : 0.35841623574245784
+ValidationLoss/Teacher 1 : tensor(0.8469, device='cuda:0')
+'mcc_score/Student 1 : 0.35814110817141154
+ValidationLoss/Student 1 : tensor(0.9728, device='cuda:0')
+Consistency_loss 2 : 0.22528937625441145
+Classification_loss 2 : 0.07321168767645005
+Overall_loss 2 : 0.2068333274665031
+'mcc_score/Teacher 2 : 0.35845683314039667
+ValidationLoss/Teacher 2 : tensor(0.8412, device='cuda:0')
+'mcc_score/Student 2 : 0.3680518022775964
+ValidationLoss/Student 2 : tensor(0.9477, device='cuda:0')
+Consistency_loss 3 : 0.16081486416465424
+Classification_loss 3 : 0.060441820763368556
+Overall_loss 3 : 0.22110171980680304
+'mcc_score/Teacher 3 : 0.3642270563827071
+ValidationLoss/Teacher 3 : tensor(0.9078, device='cuda:0')
+'mcc_score/Student 3 : 0.35320750163936127
+ValidationLoss/Student 3 : tensor(1.0059, device='cuda:0')
+Consistency_loss 4 : 0.12356768778346955
+Classification_loss 4 : 0.04424990782950153
+Overall_loss 4 : 0.16781759579130945
+'mcc_score/Teacher 4 : 0.3663255212148768
+ValidationLoss/Teacher 4 : tensor(0.9936, device='cuda:0')
+'mcc_score/Student 4 : 0.36592292279281097
+ValidationLoss/Student 4 : tensor(1.1178, device='cuda:0')
+Consistency_loss 5 : 0.09811744189008753
+Classification_loss 5 : 0.03724540185500333
+Overall_loss 5 : 0.13536284380453698
+'mcc_score/Teacher 5 : 0.3656380548630886
+ValidationLoss/Teacher 5 : tensor(1.0746, device='cuda:0')
+'mcc_score/Student 5 : 0.3594300270986601
+ValidationLoss/Student 5 : tensor(1.1980, device='cuda:0')
+Consistency_loss 6 : 0.0841449008897898
+Classification_loss 6 : 0.031162738899125696
+Overall_loss 6 : 0.1153076394124234
+'mcc_score/Teacher 6 : 0.36101242611169915
+ValidationLoss/Teacher 6 : tensor(1.1477, device='cuda:0')
+'mcc_score/Student 6 : 0.3458546237561865
+ValidationLoss/Student 6 : tensor(1.2504, device='cuda:0')
+Consistency_loss 7 : 0.07905105959148483
+Classification_loss 7 : 0.029131457764417567
+Overall_loss 7 : 0.10818251765313301
+'mcc_score/Teacher 7 : 0.3605148782845303
+ValidationLoss/Teacher 7 : tensor(1.1943, device='cuda:0')
+'mcc_score/Student 7 : 0.3583476779059531
+ValidationLoss/Student 7 : tensor(1.3069, device='cuda:0')
+Consistency_loss 8 : 0.06975948099205469
+Classification_loss 8 : 0.023274682135261755
+Overall_loss 8 : 0.09303416313722412
+'mcc_score/Teacher 8 : 0.36115381825847387
+ValidationLoss/Teacher 8 : tensor(1.3403, device='cuda:0')
+'mcc_score/Student 8 : 0.3479746538648094
+ValidationLoss/Student 8 : tensor(1.3262, device='cuda:0')
+Consistency_loss 9 : 0.06152450042638056
+Classification_loss 9 : 0.022736030427659763
+Overall_loss 9 : 0.08426053059148661
+'mcc_score/Teacher 9 : 0.3562131818619401
+ValidationLoss/Teacher 9 : tensor(1.4134, device='cuda:0')
+'mcc_score/Student 9 : 0.3536315979228131
+ValidationLoss/Student 9 : tensor(1.4830, device='cuda:0')
+Consistency_loss 10 : 0.07613732721260254
+Classification_loss 10 : 0.028713213141135712
+Overall_loss 10 : 0.10485054007632301
+'mcc_score/Teacher 10 : 0.3588517084453833
+ValidationLoss/Teacher 10 : tensor(1.3733, device='cuda:0')
+'mcc_score/Student 10 : 0.3607432805348324
+ValidationLoss/Student 10 : tensor(1.4554, device='cuda:0')
+Consistency_loss 11 : 0.05251519909088916
+Classification_loss 11 : 0.018438200188919583
+Overall_loss 11 : 0.07095339920054725
+'mcc_score/Teacher 11 : 0.35974281683447257
+ValidationLoss/Teacher 11 : tensor(1.5211, device='cuda:0')
+'mcc_score/Student 11 : 0.36093684796403463
+ValidationLoss/Student 11 : tensor(1.5878, device='cuda:0')
+Consistency_loss 12 : 0.04663011581300104
+Classification_loss 12 : 0.015774280476839618
+Overall_loss 12 : 0.06240439625020991
+'mcc_score/Teacher 12 : 0.3594026738792964
+ValidationLoss/Teacher 12 : tensor(1.5215, device='cuda:0')
+'mcc_score/Student 12 : 0.3541615207345221
+ValidationLoss/Student 12 : tensor(1.5444, device='cuda:0')

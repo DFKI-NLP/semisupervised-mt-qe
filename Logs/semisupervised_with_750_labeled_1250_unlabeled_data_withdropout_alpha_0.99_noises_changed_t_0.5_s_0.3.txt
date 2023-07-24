@@ -1,0 +1,85 @@
+semisupervised_with_750_labeled_1250_unlabeled_data_withdropout_alpha_0.99_noises_changed_t_0.5_s_0.3
+Consistency_loss 1 : 0.31625480723381044
+Classification_loss 1 : 0.6173614176511765
+Overall_loss 1 : 0.6403625536765903
+'mcc_score/Teacher 1 : 0.25356381077563306
+ValidationLoss/Teacher 1 : tensor(0.6057, device='cuda:0')
+'mcc_score/Student 1 : 0.257525030734282
+ValidationLoss/Student 1 : tensor(0.5869, device='cuda:0')
+Consistency_loss 2 : 0.16462069162726403
+Classification_loss 2 : 0.5621189396381379
+Overall_loss 2 : 0.6731856019347906
+'mcc_score/Teacher 2 : 0.2657892467272544
+ValidationLoss/Teacher 2 : tensor(0.5897, device='cuda:0')
+'mcc_score/Student 2 : 0.27085360859194385
+ValidationLoss/Student 2 : tensor(0.5944, device='cuda:0')
+Consistency_loss 3 : 0.12225342214107514
+Classification_loss 3 : 0.5330077369213104
+Overall_loss 3 : 0.6552611599862576
+'mcc_score/Teacher 3 : 0.2800116974560641
+ValidationLoss/Teacher 3 : tensor(0.5860, device='cuda:0')
+'mcc_score/Student 3 : 0.28886376014584836
+ValidationLoss/Student 3 : tensor(0.5810, device='cuda:0')
+Consistency_loss 4 : 0.11735059440135956
+Classification_loss 4 : 0.48143146246671675
+Overall_loss 4 : 0.5987820571959018
+'mcc_score/Teacher 4 : 0.2960835662364847
+ValidationLoss/Teacher 4 : tensor(0.5783, device='cuda:0')
+'mcc_score/Student 4 : 0.2961239836009447
+ValidationLoss/Student 4 : tensor(0.5669, device='cuda:0')
+Consistency_loss 5 : 0.11907622817158699
+Classification_loss 5 : 0.39953988361358644
+Overall_loss 5 : 0.5186161128878594
+'mcc_score/Teacher 5 : 0.3006374099689039
+ValidationLoss/Teacher 5 : tensor(0.6026, device='cuda:0')
+'mcc_score/Student 5 : 0.30870726245697766
+ValidationLoss/Student 5 : tensor(0.5874, device='cuda:0')
+Consistency_loss 6 : 0.1193304223716259
+Classification_loss 6 : 0.33033263559639453
+Overall_loss 6 : 0.4496630569398403
+'mcc_score/Teacher 6 : 0.2894112270685523
+ValidationLoss/Teacher 6 : tensor(0.6364, device='cuda:0')
+'mcc_score/Student 6 : 0.2989422180266939
+ValidationLoss/Student 6 : tensor(0.6288, device='cuda:0')
+Consistency_loss 7 : 0.1134597838819027
+Classification_loss 7 : 0.2797587800770998
+Overall_loss 7 : 0.39321856328845023
+'mcc_score/Teacher 7 : 0.29102593906936614
+ValidationLoss/Teacher 7 : tensor(0.7125, device='cuda:0')
+'mcc_score/Student 7 : 0.30320117751983616
+ValidationLoss/Student 7 : tensor(0.7020, device='cuda:0')
+Consistency_loss 8 : 0.11307109308242798
+Classification_loss 8 : 0.22696850732713938
+Overall_loss 8 : 0.340039600789547
+'mcc_score/Teacher 8 : 0.28600094212897154
+ValidationLoss/Teacher 8 : tensor(0.8021, device='cuda:0')
+'mcc_score/Student 8 : 0.28718526773796854
+ValidationLoss/Student 8 : tensor(0.7854, device='cuda:0')
+Consistency_loss 9 : 0.11301786585152149
+Classification_loss 9 : 0.19645263346284628
+Overall_loss 9 : 0.3094704993367195
+'mcc_score/Teacher 9 : 0.28125109718190994
+ValidationLoss/Teacher 9 : tensor(0.9197, device='cuda:0')
+'mcc_score/Student 9 : 0.2758316328211239
+ValidationLoss/Student 9 : tensor(0.9827, device='cuda:0')
+Consistency_loss 10 : 0.10798290531337261
+Classification_loss 10 : 0.15901272388547658
+Overall_loss 10 : 0.26699562910199165
+'mcc_score/Teacher 10 : 0.28037560933265127
+ValidationLoss/Teacher 10 : tensor(1.0610, device='cuda:0')
+'mcc_score/Student 10 : 0.28365230953871406
+ValidationLoss/Student 10 : tensor(1.0762, device='cuda:0')
+Consistency_loss 11 : 0.10373714007437229
+Classification_loss 11 : 0.14202400429081172
+Overall_loss 11 : 0.24576114404201507
+'mcc_score/Teacher 11 : 0.2727371400096794
+ValidationLoss/Teacher 11 : tensor(1.1751, device='cuda:0')
+'mcc_score/Student 11 : 0.27332500498806467
+ValidationLoss/Student 11 : tensor(1.2000, device='cuda:0')
+Consistency_loss 12 : 0.09283520004153252
+Classification_loss 12 : 0.12076072218641638
+Overall_loss 12 : 0.21359592227637766
+'mcc_score/Teacher 12 : 0.2690328669978164
+ValidationLoss/Teacher 12 : tensor(1.3208, device='cuda:0')
+'mcc_score/Student 12 : 0.2655495796083075
+ValidationLoss/Student 12 : tensor(1.3874, device='cuda:0')
