@@ -3,7 +3,7 @@
 
 # In[6]:
 
-
+# This file includes various data augmentation schemes that we performed on our fixed datasets. 
 import pandas as pd
 import numpy as np
 import random
